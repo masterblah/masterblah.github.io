@@ -1,0 +1,2 @@
+# staticstore
+SSr Vue Store
